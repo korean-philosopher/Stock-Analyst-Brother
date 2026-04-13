@@ -1,5 +1,6 @@
 # 📈 # Stock-Analyst-Brother: Commercial-grade stock analysis tool for individual investors
 > **"This is a financial analysis agent structure that performs real-time data retrieval (grounding) and vision verification through a single system prompt."**
+
 > **"주식 애널리스트 형: 단일 시스템 프롬프트를 통해 실시간 데이터 검색(Grounding)과 비전 검증을 수행하는 금융 분석 에이전트 구조입니다."**
 
 ---
@@ -10,19 +11,19 @@
 
 "앞으로 중동에서 한국 방산 기업들 실적이 좋을 것 같은데, 지금 들어가도 괜찮을까?"
 
-> *차트 분석을 위해서는 다음 정보가 포함된 이미지 파일을 프롬프트 창에 함께 입력해야 합니다.*
->   *1) X/Y축의 스케일과 타임프레임(일봉/주봉/월봉)*
->   *2) 캔들스틱 패턴 및 지지/저항선* 
->   *3) 거래량(Volume) 동반 여부* 
->   *4) 이동평균선(MA) 정배열/역배열 상태 및 주요 보조지표(RSI, MACD 등).*
+> 차트 분석을 위해서는 다음 정보가 포함된 이미지 파일을 프롬프트 창에 함께 입력해야 합니다.
+>   1) X/Y축의 스케일과 타임프레임(일봉/주봉/월봉)
+>   2) 캔들스틱 패턴 및 지지/저항선
+>   3) 거래량(Volume) 동반 여부
+>   4) 이동평균선(MA) 정배열/역배열 상태 및 주요 보조지표(RSI, MACD 등).
 
 "The performance of South Korean defense companies in the Middle East is expected to be strong; would it be a good time to invest now?"
 
-> *To analyze the chart, please upload an image file containing the following information:*
->   *1) X/Y axis scale and timeframe (Daily/Weekly/Monthly)*
->   *2) Candlestick patterns and support/resistance levels*
->   *3) Accompanying trading volume (Volume)*
->   *4) Moving Average (MA) alignment (Golden Cross/Death Cross) and major technical indicators (RSI, MACD, etc.))*
+> To analyze the chart, please upload an image file containing the following information:
+>   1) X/Y axis scale and timeframe (Daily/Weekly/Monthly)
+>   2) Candlestick patterns and support/resistance levels
+>   3) Accompanying trading volume (Volume)
+>   4) Moving Average (MA) alignment (Golden Cross/Death Cross) and major technical indicators (RSI, MACD, etc.))
 
 ### ✅ Output (Final Markdown Response)
 ```markdown
@@ -129,13 +130,13 @@ While I admit these are structural growth stocks driven by earnings, your entry 
 
 ## 🚀 How to Use / 사용 가이드 (Step-by-Step)
 
-1.  **[주식 애널리스트 형]** 파일을 엽니다.
-2.  전체 내용을 복사하여 AI 모델의 **System Instructions(시스템 프롬프트)** 란에 붙여넣습니다.
-3.  자유롭게 질문합니다. (위 조건에 맞는 차트 사진을 첨부할 경우 더욱 풍부한 조언이 받을 수 있습니다.)
+> 1.  **[주식 애널리스트 형]** 파일을 엽니다.
+> 2.  전체 내용을 복사하여 AI 모델의 **System Instructions(시스템 프롬프트)** 란에 붙여넣습니다.
+> 3.  자유롭게 질문합니다. (위 조건에 맞는 차트 사진을 첨부할 경우 더욱 풍부한 조언이 받을 수 있습니다.)
 
-1. Open the **[Stock Analyst Brother]** file.
-2. Copy the entire content and paste it into the **System Instructions** field of the AI model.
-3. Ask questions freely. (Attaching a chart image that meets the above criteria will allow you to receive even more comprehensive advice.)
+> 1. Open the **[Stock Analyst Brother]** file.
+> 2. Copy the entire content and paste it into the **System Instructions** field of the AI model.
+> 3. Ask questions freely. (Attaching a chart image that meets the above criteria will allow you to receive even more comprehensive advice.)
         
 ---
 
