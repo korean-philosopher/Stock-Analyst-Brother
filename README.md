@@ -131,11 +131,13 @@ While I admit these are structural growth stocks driven by earnings, your entry 
 ## 🚀 How to Use / 사용 가이드 (Step-by-Step)
 
 > 1.  **[주식 애널리스트 형]** 파일을 엽니다.
-> 2.  전체 내용을 복사하여 AI 모델의 **System Instructions(시스템 프롬프트)** 란에 붙여넣습니다.
+> 2.  전체 내용을 복사하여 Google AI Studio의 **System Instructions(시스템 프롬프트)** 란에 붙여넣습니다.
+> 3.  'Grounding with Google Search'를 켭니다.
 > 3.  자유롭게 질문합니다. (위 조건에 맞는 차트 사진을 첨부할 경우 더욱 풍부한 조언이 받을 수 있습니다.)
 
 > 1. Open the **[Stock Analyst Brother]** file.
-> 2. Copy the entire content and paste it into the **System Instructions** field of the AI model.
+> 2. Copy the entire content and paste it into the **System Instructions** field of the Google AI Studio.
+> 3. Turning on 'Grounding with Google Search'.
 > 3. Ask questions freely. (Attaching a chart image that meets the above criteria will allow you to receive even more comprehensive advice.)
         
 ---
